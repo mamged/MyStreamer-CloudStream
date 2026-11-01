@@ -1,0 +1,873 @@
+[
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/aflam_provider.png",
+        "fileHash": "sha256-8daaac6cd8ba0ddd44b797046c74bbc9392187c2b31d884f75c1aaae502c6765",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27243,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Aflam",
+        "description": "MyStreamer port: Aflam \u2014 https://aflam.top",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Aflam.cs3",
+        "name": "Aflam"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/aflamfree_provider.png",
+        "fileHash": "sha256-b65a12d85f76c202caf616758934e155a826d3e95f212f9fa1dc242da316a492",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27247,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Aflamfree",
+        "description": "MyStreamer port: AflamFree \u2014 https://aflamfree.one",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Aflamfree.cs3",
+        "name": "Aflamfree"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/ahwaktv_provider.png",
+        "fileHash": "sha256-8c2c8664f040dd6714b13d70402b8f80971b4c4dbcab4941c0555c60e8cf84ca",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27273,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Ahwaktv",
+        "description": "MyStreamer port: AhwakTV \u2014 https://ahwaktv.net",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Ahwaktv.cs3",
+        "name": "Ahwaktv"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/akwam_provider.png",
+        "fileHash": "sha256-8dd4ff8b8ef83aa2e1368f77d6ae238135eebef6fca306766d9c9de505222bbb",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27249,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Akwam",
+        "description": "MyStreamer port: Akwam \u2014 https://akwam.ss",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Akwam.cs3",
+        "name": "Akwam"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/animezid_provider.png",
+        "fileHash": "sha256-1cc43ddcf932bc2777bb747a0a705867b966281167d5093c5755e9e39b18790f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27231,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Animezid",
+        "description": "MyStreamer port: AnimeZid \u2014 https://animezid.org",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Animezid.cs3",
+        "name": "Animezid"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/astvd_provider.png",
+        "fileHash": "sha256-a11d42062d5642d9102dcba8e0c4ef58188653fbca84816c50583eac78ce6b6c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27237,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Astvd",
+        "description": "MyStreamer port: AsTvD \u2014 https://astvd.com",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Astvd.cs3",
+        "name": "Astvd"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/brstej_provider.png",
+        "fileHash": "sha256-d366b79ee5601252d9261747de8a1f2dd0a218aa1a7e268e263f8b96cd502b00",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27269,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Brstej",
+        "description": "MyStreamer port: Brstej \u2014 https://brstejj.quest",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Brstej.cs3",
+        "name": "Brstej"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/cimalight_provider.png",
+        "fileHash": "sha256-e3dfeabbc8c40a39007b3548336b723bd0df3709ae8f729526e5d1e12f7bf66b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27248,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Cimalight",
+        "description": "MyStreamer port: CimaLight \u2014 https://e.cimalight.co",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Cimalight.cs3",
+        "name": "Cimalight"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/cimalina_provider.png",
+        "fileHash": "sha256-eee7d1cf433f15133c91e7c72bbfb48d6376b7b8d72eed9b8a33562183f1dcb2",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27264,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Cimalina",
+        "description": "MyStreamer port: CimaLina \u2014 https://tv.cemalen.shop",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Cimalina.cs3",
+        "name": "Cimalina"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/cimanow_provider.png",
+        "fileHash": "sha256-83b687aa7c2c3d961b9e6771381963c8a14a5787dbe652a26f47e38e84bdf36d",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27420,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Cimanow",
+        "description": "MyStreamer port: CimaNow \u2014 https://cimanow.cc",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Cimanow.cs3",
+        "name": "Cimanow"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/cimawbs_provider.png",
+        "fileHash": "sha256-0cde54e1da9345b7a1f0b6fed2b1295b2602e2b4f29d0d4e351feec09c6e7975",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27255,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Cimawbs",
+        "description": "MyStreamer port: CimaWbs \u2014 https://cimawbas.rest",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Cimawbs.cs3",
+        "name": "Cimawbs"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/egybests_provider.png",
+        "fileHash": "sha256-91d33e0a716ac2c25801371429bef0138e81428a12dda9733035a4d6dabc6318",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27245,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Egybests",
+        "description": "MyStreamer port: EgyBests \u2014 https://egibest.life",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Egybests.cs3",
+        "name": "Egybests"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/egydead_provider.png",
+        "fileHash": "sha256-118d0d19ad0e14252ba155604ba7f2441cd0d0186b772d1b460663a7c2941567",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27244,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Egydead",
+        "description": "MyStreamer port: EgyDead \u2014 https://egydead.wiki",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Egydead.cs3",
+        "name": "Egydead"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/egynow_provider.png",
+        "fileHash": "sha256-4ae27813405f8acf1f7a54db9dc0393c4401be01ced05165090e2eb2c7d33f69",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27219,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Egynow",
+        "description": "MyStreamer port: EgyNow \u2014 https://www.egynow.buzz",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Egynow.cs3",
+        "name": "Egynow"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/esheeq_provider.png",
+        "fileHash": "sha256-07e5ffd4004ee2e9654f1444d8ede10e8549e226b81353fa0ebc7f736b2d22f6",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27285,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Esheeq",
+        "description": "MyStreamer port: Esheeq \u2014 https://esk.quest",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Esheeq.cs3",
+        "name": "Esheeq"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/fivetv_provider.png",
+        "fileHash": "sha256-f9de07440cbf9f1cebd930ef42ae988ba2ffbb32d920844ab20ef4d9691e8046",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27291,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Fivetv",
+        "description": "MyStreamer port: FiveTV \u2014 https://new61.5tv.lol",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Fivetv.cs3",
+        "name": "Fivetv"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/fushaar_provider.png",
+        "fileHash": "sha256-6c11ef4053101e58f62df7a9e277f1e1454267b859865d65833cd99c9cfb89a7",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27247,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Fushaar",
+        "description": "MyStreamer port: Fushaar \u2014 https://fussshaar.yachts",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Fushaar.cs3",
+        "name": "Fushaar"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/getkoora_provider.png",
+        "fileHash": "sha256-d3fe1d06ae94c59ce2aec945a1e2e676ded65342d60a165dd47849d9a5b2b935",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27244,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Getkoora",
+        "description": "MyStreamer port: GetKoora \u2014 https://getkoora.quest",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Getkoora.cs3",
+        "name": "Getkoora"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/hwnaturkya_provider.png",
+        "fileHash": "sha256-4f94d5a66fdcc833738b304789e6e4f196a2f9d19bfd42057f8dfea2714ea95f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27258,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Hwnaturkya",
+        "description": "MyStreamer port: HwanaTurkya \u2014 https://www.hwnaturkya.com",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Hwnaturkya.cs3",
+        "name": "Hwnaturkya"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/koorahd_provider.png",
+        "fileHash": "sha256-b557c12df1fef42a08dae9125e0d78d0e2505b8a20a212e9180338d627ce08ff",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27229,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Koorahd",
+        "description": "MyStreamer port: KooraHD \u2014 https://alkora.club",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Koorahd.cs3",
+        "name": "Koorahd"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/kooraweb_provider.png",
+        "fileHash": "sha256-34f2ca08819ee9e43302dce3d6ffcb178b190bb672c882329a6d3a84eb568a36",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27238,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Kooraweb",
+        "description": "MyStreamer port: KooraWeb \u2014 https://kooralovers.com",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Kooraweb.cs3",
+        "name": "Kooraweb"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/krmzy_provider.png",
+        "fileHash": "sha256-edd54167b7d22a7cd564fb743e220f43bfd65ef6fcaf7136d7034fae38869ee3",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27252,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Krmzy",
+        "description": "MyStreamer port: Krmzy \u2014 https://krmzy.org",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Krmzy.cs3",
+        "name": "Krmzy"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/larooza_provider.png",
+        "fileHash": "sha256-2a7c8c5acd6f80eb5dc1a8db0a39307d9a8639a32117022224413aa18285c3d4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27258,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Larooza",
+        "description": "MyStreamer port: Larooza \u2014 https://larooza.motorcycles",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Larooza.cs3",
+        "name": "Larooza"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/lodynet_provider.png",
+        "fileHash": "sha256-4f3c25b38d8eaecf305ac01f280ea67fedc8fdac0d899eda2e10dee4a7255883",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27252,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Lodynet",
+        "description": "MyStreamer port: LodyNet \u2014 https://lodynet.top",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Lodynet.cs3",
+        "name": "Lodynet"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/moviegate_provider.png",
+        "fileHash": "sha256-58dabaff87914aa0b73bcea01fba544f90471f1d5fbd40b5f7355939ebcd0f02",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27349,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Moviegate",
+        "description": "MyStreamer port: MovieGate \u2014 https://moviegate.one",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Moviegate.cs3",
+        "name": "Moviegate"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/movizland_provider.png",
+        "fileHash": "sha256-df70563c831ced556105c20051a9ce922f56824f275996907cbfdb8fed0a76e6",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27268,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Movizland",
+        "description": "MyStreamer port: MovizLand \u2014 https://www.moviz.land",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Movizland.cs3",
+        "name": "Movizland"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/mycima_provider.png",
+        "fileHash": "sha256-11d98dae7cb38e1cd198f1b26fc603f96b4b568071f07186a10960bc742b45cb",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27269,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Mycima",
+        "description": "MyStreamer port: MyCima \u2014 https://cima.my-cima.net",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Mycima.cs3",
+        "name": "Mycima"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/myseed_provider.png",
+        "fileHash": "sha256-192b830f867e3e944ee0f4c4de43f1971d4a3f9f10de0c1ff5b1b19eab440d10",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27441,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Myseed",
+        "description": "MyStreamer port: MySeed \u2014 https://m.myseed.tv",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Myseed.cs3",
+        "name": "Myseed"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/mywecima_provider.png",
+        "fileHash": "sha256-4db45cc6e6bed4da69df8b5ac7ab153ca4ac6c5b4ad641a8e457a95ff60dd1ef",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27283,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Mywecima",
+        "description": "MyStreamer port: MyWecima \u2014 https://myweecima.shop",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Mywecima.cs3",
+        "name": "Mywecima"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/okanime_provider.png",
+        "fileHash": "sha256-e4d2cd464828cacebeca1d430f84c946979c25110472da107398eca96bc4c62f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27273,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Okanime",
+        "description": "MyStreamer port: OkAnime \u2014 https://ww3.okanime.xyz",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Okanime.cs3",
+        "name": "Okanime"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/oldakwam_provider.png",
+        "fileHash": "sha256-5bf1a54f11a702fc3f1a43cf24634fa5ddd37688f5030964278beffce0e5815e",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27292,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Oldakwam",
+        "description": "MyStreamer port: OldAkwam \u2014 https://old.akwam.ss",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Oldakwam.cs3",
+        "name": "Oldakwam"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/qfilm_provider.png",
+        "fileHash": "sha256-207abaeb66abddaf4df4a9afb37f415453e036647d1107462e8675e9e1775978",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27284,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Qfilm",
+        "description": "MyStreamer port: QFilm \u2014 https://qfilm.tv",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Qfilm.cs3",
+        "name": "Qfilm"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/rotana_provider.png",
+        "fileHash": "sha256-a85639f3f1215cb456af99ffa06a49138420a4e819997eec1fe64fabd40e7ca5",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27263,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Rotana",
+        "description": "MyStreamer port: Rotana \u2014 https://rotana.net",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Rotana.cs3",
+        "name": "Rotana"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/roya_provider.png",
+        "fileHash": "sha256-c540e00113c02076749f4007c9dfbf55a461ca1e7a62c6a54fd7167d41e72936",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27254,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Roya",
+        "description": "MyStreamer port: Roya \u2014 https://roya.tv",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Roya.cs3",
+        "name": "Roya"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/shaahid4u_provider.png",
+        "fileHash": "sha256-b5a44b6d7ba06c9e18a41255155ebe9e6d8090f146420b9f1bbc5989a02acf16",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27292,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Shaahid4u",
+        "description": "MyStreamer port: Shaahid4U \u2014 https://shahid4us.com",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Shaahid4u.cs3",
+        "name": "Shaahid4u"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/shahiidanime_provider.png",
+        "fileHash": "sha256-ec6a31e311be38f1044ac9fab740441649cf9e2c4728b53cafb5a2230cbf10ef",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27282,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Shahiidanime",
+        "description": "MyStreamer port: ShahiidAnime \u2014 https://shahiid-anime.net",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Shahiidanime.cs3",
+        "name": "Shahiidanime"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/shooflive_provider.png",
+        "fileHash": "sha256-fefa92e4598cdf329a4fc3b0d1512801371fc02f4c0146eede55d7c763c4a4b5",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27321,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Shooflive",
+        "description": "MyStreamer port: ShoofLive \u2014 https://shooflive.watch",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Shooflive.cs3",
+        "name": "Shooflive"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/syrialive_provider.png",
+        "fileHash": "sha256-d3bf324cff6fac64073c007ea0cf42ebe95cb5d926b9a091eaecce61d299c33b",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27269,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Syrialive",
+        "description": "MyStreamer port: SyriaLive \u2014 https://syrialive.boats",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Syrialive.cs3",
+        "name": "Syrialive"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/tukcima_provider.png",
+        "fileHash": "sha256-67df7d1706934e1531b9063411433b246ad02ea8c2509ba7da9d736587fe694c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27306,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Tukcima",
+        "description": "MyStreamer port: TukCima \u2014 https://tukcima.com",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Tukcima.cs3",
+        "name": "Tukcima"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/tvsiir_provider.png",
+        "fileHash": "sha256-37ae3a60ae662619a3a04e43f1de97e5307bac348e9a277b6e3e51a2af8b5ad6",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27260,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Tvsiir",
+        "description": "MyStreamer port: TvSiir \u2014 https://tvsiir.co",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Tvsiir.cs3",
+        "name": "Tvsiir"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/txcima_provider.png",
+        "fileHash": "sha256-a542a819c0721dc98a941089eac127e3cb758574efa11e4f3948c2120ae0ec98",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27270,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Txcima",
+        "description": "MyStreamer port: TxCima \u2014 https://txc.txcima.com",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Txcima.cs3",
+        "name": "Txcima"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/main/icons/zaflam_provider.png",
+        "fileHash": "sha256-6c2783a9f413f4144ec36caddfc8190079ee4cd98f26967cb28c278aafbe8337",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mamged/MyStreamer-CloudStream",
+        "fileSize": 27258,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "MNASR"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Zaflam",
+        "description": "MyStreamer port: Zaflam \u2014 https://zaflam.com",
+        "url": "https://raw.githubusercontent.com/mamged/MyStreamer-CloudStream/builds/Zaflam.cs3",
+        "name": "Zaflam"
+    }
+]

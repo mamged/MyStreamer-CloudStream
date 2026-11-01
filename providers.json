@@ -1,0 +1,805 @@
+{
+  "source": "MyStreamer Enigma2 plugin v1.0.3 (GitHub popking159/MyStreamer installer + GitLab IPK enigma2-plugin-extensions-mystreamer_1.0.3_aarch64_py3.13.ipk)",
+  "providerCount": 42,
+  "providers": [
+    {
+      "slug": "aflam",
+      "name": "Aflam",
+      "folder": "Aflam",
+      "class": "Aflam",
+      "mainUrl": "https://aflam.top",
+      "alternateUrls": [],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/aflam_provider.png",
+      "note": ""
+    },
+    {
+      "slug": "aflamfree",
+      "name": "AflamFree",
+      "folder": "Aflamfree",
+      "class": "Aflamfree",
+      "mainUrl": "https://aflamfree.one",
+      "alternateUrls": [],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/aflamfree_provider.png",
+      "note": ""
+    },
+    {
+      "slug": "ahwaktv",
+      "name": "AhwakTV",
+      "folder": "Ahwaktv",
+      "class": "Ahwaktv",
+      "mainUrl": "https://ahwaktv.net",
+      "alternateUrls": [
+        "https://yam.ahwaktv.net"
+      ],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/search.php?keywords=",
+      "mainPages": [],
+      "icon": "icons/ahwaktv_provider.png",
+      "note": "Search endpoint recovered from the original module."
+    },
+    {
+      "slug": "akwam",
+      "name": "Akwam",
+      "folder": "Akwam",
+      "class": "Akwam",
+      "mainUrl": "https://akwam.ss",
+      "alternateUrls": [],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/akwam_provider.png",
+      "note": ""
+    },
+    {
+      "slug": "animezid",
+      "name": "AnimeZid",
+      "folder": "Animezid",
+      "class": "Animezid",
+      "mainUrl": "https://animezid.org",
+      "alternateUrls": [],
+      "types": [
+        "Anime"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/animezid_provider.png",
+      "note": "Anime provider."
+    },
+    {
+      "slug": "astvd",
+      "name": "AsTvD",
+      "folder": "Astvd",
+      "class": "Astvd",
+      "mainUrl": "https://astvd.com",
+      "alternateUrls": [
+        "https://asiawiki.me/"
+      ],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/astvd_provider.png",
+      "note": ""
+    },
+    {
+      "slug": "brstej",
+      "name": "Brstej",
+      "folder": "Brstej",
+      "class": "Brstej",
+      "mainUrl": "https://brstejj.quest",
+      "alternateUrls": [
+        "https://brsteej.lol"
+      ],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/search.php?keywords=",
+      "mainPages": [],
+      "icon": "icons/brstej_provider.png",
+      "note": "Note the site domain spelling brsteej.lol, provider folder brstej. Domain updated 2026-11-01: https://brsteej.lol redirects to https://brstejj.quest (verified live)."
+    },
+    {
+      "slug": "cimalight",
+      "name": "CimaLight",
+      "folder": "Cimalight",
+      "class": "Cimalight",
+      "mainUrl": "https://e.cimalight.co",
+      "alternateUrls": [
+        "https://cimalight.co"
+      ],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/cimalight_provider.png",
+      "note": " Domain updated 2026-11-01: https://cimalight.co redirects to https://e.cimalight.co (verified live)."
+    },
+    {
+      "slug": "cimalina",
+      "name": "CimaLina",
+      "folder": "Cimalina",
+      "class": "Cimalina",
+      "mainUrl": "https://tv.cemalen.shop",
+      "alternateUrls": [],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/cimalina_provider.png",
+      "note": "Original also matches cema-lin.shop / cimalina domains."
+    },
+    {
+      "slug": "cimanow",
+      "name": "CimaNow",
+      "folder": "Cimanow",
+      "class": "Cimanow",
+      "mainUrl": "https://cimanow.cc",
+      "alternateUrls": [],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [
+        {
+          "name": "Movies",
+          "path": "/category/افلام-اجنبية/"
+        },
+        {
+          "name": "Series",
+          "path": "/category/مسلسلات-اجنبية/"
+        },
+        {
+          "name": "Arabic Series",
+          "path": "/category/مسلسلات-عربية/"
+        },
+        {
+          "name": "Turkish Series",
+          "path": "/category/مسلسلات-تركية/"
+        }
+      ],
+      "icon": "icons/cimanow_provider.png",
+      "note": "Largest module in the original IPK (1.3 MB compiled)."
+    },
+    {
+      "slug": "cimawbs",
+      "name": "CimaWbs",
+      "folder": "Cimawbs",
+      "class": "Cimawbs",
+      "mainUrl": "https://cimawbas.rest",
+      "alternateUrls": [
+        "https://cimawbs.best"
+      ],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/cimawbs_provider.png",
+      "note": " Domain updated 2026-11-01: https://cimawbs.best redirects to https://cimawbas.rest (verified live)."
+    },
+    {
+      "slug": "egybests",
+      "name": "EgyBests",
+      "folder": "Egybests",
+      "class": "Egybests",
+      "mainUrl": "https://egibest.life",
+      "alternateUrls": [
+        "https://egybests.live"
+      ],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/egybests_provider.png",
+      "note": "Icon file in the original is egybest_provider.png. Domain updated 2026-11-01: https://egybests.live redirects to https://egibest.life (verified live)."
+    },
+    {
+      "slug": "egydead",
+      "name": "EgyDead",
+      "folder": "Egydead",
+      "class": "Egydead",
+      "mainUrl": "https://egydead.wiki",
+      "alternateUrls": [
+        "https://egydead.live",
+        "https://egydead.link"
+      ],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/egydead_provider.png",
+      "note": ""
+    },
+    {
+      "slug": "egynow",
+      "name": "EgyNow",
+      "folder": "Egynow",
+      "class": "Egynow",
+      "mainUrl": "https://www.egynow.buzz",
+      "alternateUrls": [
+        "https://egynow.quest",
+        "https://www.egynow.my/"
+      ],
+      "types": [
+        "Live"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/egynow_provider.png",
+      "note": "Live / sports provider in the original (m3u8 streams)."
+    },
+    {
+      "slug": "esheeq",
+      "name": "Esheeq",
+      "folder": "Esheeq",
+      "class": "Esheeq",
+      "mainUrl": "https://esk.quest",
+      "alternateUrls": [
+        "https://esheeq.study"
+      ],
+      "types": [
+        "TvSeries",
+        "Movie"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [
+        {
+          "name": "Turkish Series",
+          "path": "/turk-series/"
+        }
+      ],
+      "icon": "icons/esheeq_provider.png",
+      "note": "Turkish series specialist. Domain updated 2026-11-01: https://esheeq.study redirects to https://esk.quest (verified live)."
+    },
+    {
+      "slug": "fivetv",
+      "name": "FiveTV",
+      "folder": "Fivetv",
+      "class": "Fivetv",
+      "mainUrl": "https://new61.5tv.lol",
+      "alternateUrls": [
+        "https://5tv.asia"
+      ],
+      "types": [
+        "Movie",
+        "TvSeries",
+        "Anime"
+      ],
+      "searchPath": "/search/?q=",
+      "mainPages": [
+        {
+          "name": "Anime",
+          "path": "/category/أنمي/"
+        }
+      ],
+      "icon": "icons/fivetv_provider.png",
+      "note": " Domain updated 2026-11-01: https://5tv.asia redirects to https://new61.5tv.lol (verified live)."
+    },
+    {
+      "slug": "fushaar",
+      "name": "Fushaar",
+      "folder": "Fushaar",
+      "class": "Fushaar",
+      "mainUrl": "https://fussshaar.yachts",
+      "alternateUrls": [
+        "https://fussshaar.rest"
+      ],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/fushaar_provider.png",
+      "note": "Note triple-s domain fussshaar.rest. Domain updated 2026-11-01: https://fussshaar.rest redirects to https://fussshaar.yachts (verified live)."
+    },
+    {
+      "slug": "getkoora",
+      "name": "GetKoora",
+      "folder": "Getkoora",
+      "class": "Getkoora",
+      "mainUrl": "https://getkoora.quest",
+      "alternateUrls": [],
+      "types": [
+        "Live"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/getkoora_provider.png",
+      "note": "Live sports provider."
+    },
+    {
+      "slug": "hwnaturkya",
+      "name": "HwanaTurkya",
+      "folder": "Hwnaturkya",
+      "class": "Hwnaturkya",
+      "mainUrl": "https://www.hwnaturkya.com",
+      "alternateUrls": [],
+      "types": [
+        "TvSeries",
+        "Movie"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/hwnaturkya_provider.png",
+      "note": "Turkish content."
+    },
+    {
+      "slug": "koorahd",
+      "name": "KooraHD",
+      "folder": "Koorahd",
+      "class": "Koorahd",
+      "mainUrl": "https://alkora.club",
+      "alternateUrls": [
+        "https://koorahd.net"
+      ],
+      "types": [
+        "Live"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/koorahd_provider.png",
+      "note": "Live sports provider. Domain updated 2026-11-01: https://koorahd.net redirects to https://alkora.club (verified live)."
+    },
+    {
+      "slug": "kooraweb",
+      "name": "KooraWeb",
+      "folder": "Kooraweb",
+      "class": "Kooraweb",
+      "mainUrl": "https://kooralovers.com",
+      "alternateUrls": [
+        "https://kooraweb.com"
+      ],
+      "types": [
+        "Live"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/kooraweb_provider.png",
+      "note": "Live sports provider. Domain updated 2026-11-01: https://kooraweb.com redirects to https://kooralovers.com (verified live)."
+    },
+    {
+      "slug": "krmzy",
+      "name": "Krmzy",
+      "folder": "Krmzy",
+      "class": "Krmzy",
+      "mainUrl": "https://krmzy.org",
+      "alternateUrls": [],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [
+        {
+          "name": "Series",
+          "path": "/series/"
+        }
+      ],
+      "icon": "icons/krmzy_provider.png",
+      "note": ""
+    },
+    {
+      "slug": "larooza",
+      "name": "Larooza",
+      "folder": "Larooza",
+      "class": "Larooza",
+      "mainUrl": "https://larooza.motorcycles",
+      "alternateUrls": [],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/search.php?keywords=",
+      "mainPages": [],
+      "icon": "icons/larooza_provider.png",
+      "note": ""
+    },
+    {
+      "slug": "lodynet",
+      "name": "LodyNet",
+      "folder": "Lodynet",
+      "class": "Lodynet",
+      "mainUrl": "https://lodynet.top",
+      "alternateUrls": [
+        "https://lodynet.watch"
+      ],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/lodynet_provider.png",
+      "note": " Domain updated 2026-11-01: https://lodynet.watch redirects to https://lodynet.top (verified live)."
+    },
+    {
+      "slug": "moviegate",
+      "name": "MovieGate",
+      "folder": "Moviegate",
+      "class": "Moviegate",
+      "mainUrl": "https://moviegate.one",
+      "alternateUrls": [],
+      "types": [
+        "Movie"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [
+        {
+          "name": "All Movies",
+          "path": "/category/movis/all-movies/"
+        },
+        {
+          "name": "Turkish Movies",
+          "path": "/category/movis/turkish-movies/"
+        },
+        {
+          "name": "Indian Movies",
+          "path": "/category/movis/indian-movies/"
+        }
+      ],
+      "icon": "icons/moviegate_provider.png",
+      "note": "Movie-focused."
+    },
+    {
+      "slug": "movizland",
+      "name": "MovizLand",
+      "folder": "Movizland",
+      "class": "Movizland",
+      "mainUrl": "https://www.moviz.land",
+      "alternateUrls": [],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [
+        {
+          "name": "Movies",
+          "path": "/movies/"
+        }
+      ],
+      "icon": "icons/movizland_provider.png",
+      "note": " Domain updated 2026-11-01: https://www.moviz.land redirects to https://www.moviz.land (verified live)."
+    },
+    {
+      "slug": "mycima",
+      "name": "MyCima",
+      "folder": "Mycima",
+      "class": "Mycima",
+      "mainUrl": "https://cima.my-cima.net",
+      "alternateUrls": [],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/mycima_provider.png",
+      "note": ""
+    },
+    {
+      "slug": "myseed",
+      "name": "MySeed",
+      "folder": "Myseed",
+      "class": "Myseed",
+      "mainUrl": "https://m.myseed.tv",
+      "alternateUrls": [],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [
+        {
+          "name": "Arabic Movies",
+          "path": "/category/arabic-movies/"
+        },
+        {
+          "name": "Arabic Series",
+          "path": "/category/arabic-series/"
+        },
+        {
+          "name": "Foreign Movies",
+          "path": "/category/foreign-movies/"
+        },
+        {
+          "name": "Foreign Series",
+          "path": "/category/foreign-series/"
+        },
+        {
+          "name": "Turkish Series",
+          "path": "/category/turkish-series/"
+        },
+        {
+          "name": "Animation Movies",
+          "path": "/category/animation-movies/"
+        }
+      ],
+      "icon": "icons/myseed_provider.png",
+      "note": ""
+    },
+    {
+      "slug": "mywecima",
+      "name": "MyWecima",
+      "folder": "Mywecima",
+      "class": "Mywecima",
+      "mainUrl": "https://myweecima.shop",
+      "alternateUrls": [
+        "https://mywecima.work",
+        "https://mycima.gdn",
+        "https://wecima.cx"
+      ],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/mywecima_provider.png",
+      "note": " Domain updated 2026-11-01: https://mywecima.work redirects to https://myweecima.shop (verified live)."
+    },
+    {
+      "slug": "okanime",
+      "name": "OkAnime",
+      "folder": "Okanime",
+      "class": "Okanime",
+      "mainUrl": "https://ww3.okanime.xyz",
+      "alternateUrls": [
+        "https://okanime.xyz"
+      ],
+      "types": [
+        "Anime"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [
+        {
+          "name": "Anime List",
+          "path": "/anime-list"
+        }
+      ],
+      "icon": "icons/okanime_provider.png",
+      "note": "Anime provider. Domain updated 2026-11-01: https://okanime.xyz redirects to https://ww3.okanime.xyz (verified live)."
+    },
+    {
+      "slug": "oldakwam",
+      "name": "OldAkwam",
+      "folder": "Oldakwam",
+      "class": "Oldakwam",
+      "mainUrl": "https://old.akwam.ss",
+      "alternateUrls": [],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/oldakwam_provider.png",
+      "note": ""
+    },
+    {
+      "slug": "qfilm",
+      "name": "QFilm",
+      "folder": "Qfilm",
+      "class": "Qfilm",
+      "mainUrl": "https://qfilm.tv",
+      "alternateUrls": [
+        "https://a.qfilm.tv"
+      ],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/search.php?keywords=",
+      "mainPages": [],
+      "icon": "icons/qfilm_provider.png",
+      "note": ""
+    },
+    {
+      "slug": "rotana",
+      "name": "Rotana",
+      "folder": "Rotana",
+      "class": "Rotana",
+      "mainUrl": "https://rotana.net",
+      "alternateUrls": [],
+      "types": [
+        "Live"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/rotana_provider.png",
+      "note": "Live TV channels. Original fetches now-playing from rotana.net and Hibrid streaming embeds; channel list in CloudStream is generic until the embed resolver is tuned per channel."
+    },
+    {
+      "slug": "roya",
+      "name": "Roya",
+      "folder": "Roya",
+      "class": "Roya",
+      "mainUrl": "https://roya.tv",
+      "alternateUrls": [],
+      "types": [
+        "Live"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/roya_provider.png",
+      "note": "Live TV. Original also used fast.kwikmotion.com / fasttvcdn.com playlists for Roya channels."
+    },
+    {
+      "slug": "shaahid4u",
+      "name": "Shaahid4U",
+      "folder": "Shaahid4u",
+      "class": "Shaahid4u",
+      "mainUrl": "https://shahid4us.com",
+      "alternateUrls": [],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/search?s=",
+      "mainPages": [],
+      "icon": "icons/shaahid4u_provider.png",
+      "note": "Domain updated 2026-11-01: https://shaahidd4u.net redirects to https://shahid4us.com (verified live, 62 img-links on home)"
+    },
+    {
+      "slug": "shahiidanime",
+      "name": "ShahiidAnime",
+      "folder": "Shahiidanime",
+      "class": "Shahiidanime",
+      "mainUrl": "https://shahiid-anime.net",
+      "alternateUrls": [],
+      "types": [
+        "Anime"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/shahiidanime_provider.png",
+      "note": "Anime provider."
+    },
+    {
+      "slug": "shooflive",
+      "name": "ShoofLive",
+      "folder": "Shooflive",
+      "class": "Shooflive",
+      "mainUrl": "https://shooflive.watch",
+      "alternateUrls": [
+        "https://q2.shooflive.sbs"
+      ],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [
+        {
+          "name": "Movies",
+          "path": "/movies/"
+        },
+        {
+          "name": "Series",
+          "path": "/series/"
+        }
+      ],
+      "icon": "icons/shooflive_provider.png",
+      "note": ""
+    },
+    {
+      "slug": "syrialive",
+      "name": "SyriaLive",
+      "folder": "Syrialive",
+      "class": "Syrialive",
+      "mainUrl": "https://syrialive.boats",
+      "alternateUrls": [
+        "https://syrialive.lol"
+      ],
+      "types": [
+        "Live"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/syrialive_provider.png",
+      "note": "Live sports provider. Domain updated 2026-11-01: https://syrialive.lol redirects to https://syrialive.boats (verified live)."
+    },
+    {
+      "slug": "tukcima",
+      "name": "TukCima",
+      "folder": "Tukcima",
+      "class": "Tukcima",
+      "mainUrl": "https://tukcima.com",
+      "alternateUrls": [],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [
+        {
+          "name": "Movies",
+          "path": "/category/movies/"
+        }
+      ],
+      "icon": "icons/tukcima_provider.png",
+      "note": " Domain updated 2026-11-01: https://tukcima.com redirects to https://tukcima.com (verified live)."
+    },
+    {
+      "slug": "tvsiir",
+      "name": "TvSiir",
+      "folder": "Tvsiir",
+      "class": "Tvsiir",
+      "mainUrl": "https://tvsiir.co",
+      "alternateUrls": [],
+      "types": [
+        "Live"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/tvsiir_provider.png",
+      "note": "Live sports provider; original used a local proxy for its player."
+    },
+    {
+      "slug": "txcima",
+      "name": "TxCima",
+      "folder": "Txcima",
+      "class": "Txcima",
+      "mainUrl": "https://txc.txcima.com",
+      "alternateUrls": [
+        "https://b.txcima.com"
+      ],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/txcima_provider.png",
+      "note": " Domain updated 2026-11-01: https://b.txcima.com redirects to https://txc.txcima.com (verified live)."
+    },
+    {
+      "slug": "zaflam",
+      "name": "Zaflam",
+      "folder": "Zaflam",
+      "class": "Zaflam",
+      "mainUrl": "https://zaflam.com",
+      "alternateUrls": [],
+      "types": [
+        "Movie",
+        "TvSeries"
+      ],
+      "searchPath": "/?s=",
+      "mainPages": [],
+      "icon": "icons/zaflam_provider.png",
+      "note": ""
+    }
+  ]
+}
