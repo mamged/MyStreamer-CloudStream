@@ -84,7 +84,7 @@ abstract class MyStreamerBase(
 
     // Serialize homepage requests: these sites rate-limit / Cloudflare-block
     // bursts of parallel category requests from one device.
-    override val sequentialMainPage = true
+    override var sequentialMainPage = true
 
     override val mainPage: List<MainPageData>
         get() = if (mainPages.isEmpty()) {
