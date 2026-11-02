@@ -13,6 +13,7 @@ import com.lagradost.cloudstream3.SubtitleFile
 import com.lagradost.cloudstream3.TvType
 import com.lagradost.cloudstream3.addQuality
 import com.lagradost.cloudstream3.app
+import com.lagradost.cloudstream3.fixUrl
 import com.lagradost.cloudstream3.mainPageOf
 import com.lagradost.cloudstream3.newAnimeLoadResponse
 import com.lagradost.cloudstream3.newAnimeSearchResponse
@@ -31,7 +32,7 @@ import com.lagradost.cloudstream3.utils.Qualities
 import com.lagradost.cloudstream3.utils.getQualityFromName
 import com.lagradost.cloudstream3.utils.loadExtractor
 import com.lagradost.cloudstream3.utils.newExtractorLink
-import com.lagradost.cloudstream3.utils.newSubtitleFile
+import com.lagradost.cloudstream3.newSubtitleFile
 import java.net.URLEncoder
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
@@ -279,12 +280,12 @@ abstract class MyStreamerBase(
             if (nums.all { it != null } && nums.zipWithNext().all { (a, b) -> a!! > b!! }) entries.reversed() else entries
         }
         val episodes: List<Episode> = sortedEpisodes.mapIndexed { i, (href, a) ->
-            newEpisode(fixUrl(href)) {
+            newEpisode(href, initializer = {
                 this.name = cleanTitle(a.text()).ifBlank { "Episode ${episodeNumber(a.text(), href) ?: (i + 1)}" }
                 this.episode = episodeNumber(a.text(), href) ?: (i + 1)
                 this.season = season
                 this.posterUrl = posterOf(a)
-            }
+            })
         }
 
         return when {
@@ -298,7 +299,7 @@ abstract class MyStreamerBase(
                 } else {
                     // A single playable entry so an anime movie is not
                     // marked comingSoon with zero episodes.
-                    this.episodes[DubStatus.Subbed] = listOf(newEpisode(url) { this.name = title })
+                    this.episodes[DubStatus.Subbed] = listOf(newEpisode(url, initializer = { this.name = title }))
                 }
             }
             episodes.isNotEmpty() -> newTvSeriesLoadResponse(title, url, TvType.TvSeries, episodes) {
